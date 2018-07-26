@@ -1,6 +1,6 @@
 {
   "name": "kue-tf",
-  "version": "0.12.1",
+  "version": "0.12.2",
   "description": "Feature rich priority job queue backed by redis",
   "homepage": "http://automattic.github.io/kue/",
   "keywords": [
